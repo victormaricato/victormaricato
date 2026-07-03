@@ -6,9 +6,9 @@ Recent papers:
 - [DispatchQA: A Benchmark for Small Function Calling Language Models in E-Commerce Applications](https://aclanthology.org/2025.emnlp-industry.154/)
 
 Recent Projects:
-- focusy.co
-- enhancv.me
-- usebeto.com
+- [focusy.co](focusy.co)
+- [enhancv.me](enhancv.me)
+- [usebeto.com](usebeto.com)
 
 (cooking more)
 

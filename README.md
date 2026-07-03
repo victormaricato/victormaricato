@@ -12,6 +12,7 @@ Recent Projects:
 - [focusy.co](https://focusy.co)
 - [enhancv.me](https://enhancv.me)
 - [usebeto.com](https://usebeto.com)
+- [Upwork's Uma](https://www.upwork.com/uma)
 
 (cooking more)
 

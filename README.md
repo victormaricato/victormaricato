@@ -12,9 +12,11 @@ Recent papers:
 (cooking more)
 
 Recent Side Projects:
-- [focusy.co](https://focusy.co)
+- [JENNIE web app for researchers](https://victormaricato-jennie.static.hf.space/index.html)
 - [enhancv.me](https://enhancv.me)
+- [focusy.co](https://focusy.co)
 - [usebeto.com](https://usebeto.com)
+
 
 (cooking more)
 

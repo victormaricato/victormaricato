@@ -8,14 +8,21 @@ Recent papers:
 - [Suicide Mortality among Indigenous Peoples in Brazil, 2010-24: A Nationwide Registry-Based Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6877485)
 - [DispatchQA: A Benchmark for Small Function Calling Language Models in E-Commerce Applications](https://aclanthology.org/2025.emnlp-industry.154/)
 
-Recent Projects:
+(cooking more)
+
+Recent Side Projects:
 - [focusy.co](https://focusy.co)
 - [enhancv.me](https://enhancv.me)
 - [usebeto.com](https://usebeto.com)
-- [Upwork's Uma](https://www.upwork.com/uma)
 
 (cooking more)
 
+Recent Company Public Projects:
+- [Upwork's Uma](https://www.upwork.com/uma)
+- [Teste da Bochechinha](https://testedabochechinha.com.br/)
+
+On the news:
+- [Variantes já substituíram quase toda a forma original do vírus da Covid-19](https://ictq.com.br/farmacia-clinica/3139-variantes-ja-substituiram-quase-toda-a-forma-original-do-virus-da-covid-19)
 
 
 <!--

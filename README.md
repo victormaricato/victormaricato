@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I like building things and understanding life. Everything else is a consequence.
+
+I've studied Biotechnology, Medicine, and Machine Learning.
+
+
 Recent papers:
 - TBD: https://github.com/victormaricato/leakit
 - TBD: https://github.com/victormaricato/jennie

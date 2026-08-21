@@ -32,7 +32,6 @@ Recent Company Public Projects:
 
 Whitepapers:
 - https://www.upwork.com/research/ai-translation-future
-- 
 
 On the news:
 - [Variantes já substituíram quase toda a forma original do vírus da Covid-19](https://ictq.com.br/farmacia-clinica/3139-variantes-ja-substituiram-quase-toda-a-forma-original-do-virus-da-covid-19)
